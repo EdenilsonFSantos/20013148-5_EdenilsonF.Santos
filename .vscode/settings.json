@@ -1,0 +1,7 @@
+{
+    "git.autofetch": true,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "projectManager.git.baseFolders": [
+        "C:\\xampp\\htdocs\\20013148-5_EdenilsonF.Santos"
+    ]
+}
