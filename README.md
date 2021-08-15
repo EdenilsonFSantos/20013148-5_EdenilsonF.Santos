@@ -6,7 +6,9 @@ QUEM SOU EU?
 
 A QUEM SE DESTINA / OBJETIVO
 Este projeto é publico, objetivo deste é facilitar a compreenção sobre o estudo de caso,
-em questão sobre um site web desenvolvido com HTM, PHP, CSS, baseado na ideia de uma esposição de produtos,
+em questão sobre um site web desenvolvido com HTML, PHP, CSS, baseado na ideia de uma esposição de produtos,
 pode interessar a futuros estudantes.
 
 INSTALAÇÃO LOCAL
+    Instalado App Xampp, no Desktop com Windows 10.
+    Add arquivos do site na pasta C:\xampp\htdocs\20013148-5_EdenilsonF.Santos
