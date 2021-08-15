@@ -1,4 +1,6 @@
 
+
+/* ---------  CABEÇALHO - MENU DE OPCOES HORIZONTAL  ---------- */
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -32,5 +34,16 @@
   .topnav .icon {
     display: none;
   }
+
+  /* --------------  RODAPE ------------  */
+
+.rodape {
+    position:absolute;
+    font-size: 10px;
+    color: blue;
+    bottom:0;
+    width:100%;
+}
+
 
  

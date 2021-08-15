@@ -8,18 +8,15 @@
 <body>
 
 <?php
-	//echo 'Rodape';
-
+	require 'cabecalho.php';
+	echo 'Contato';
 ?>
 
 
-
-    <div class='rodape'>
-        By Edenilson Fernandes dos Santos - RA: 20013148-5 - 
-        Curso: Superior de Tecnologia em Sistemas para Internet - 
-        Faculdade: Unicesumar<br><br>
-    </div>
-
-
+<footer>
+<?php
+	require 'rodape.php';
+?>
+</footer>
 </body>
 </html>
