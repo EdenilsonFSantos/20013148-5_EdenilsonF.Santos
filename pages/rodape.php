@@ -15,9 +15,10 @@
 
 
     <div class='rodape'>
-        By Edenilson Fernandes dos Santos - RA: 20013148-5 - 
-        Curso: Superior de Tecnologia em Sistemas para Internet - 
-        Faculdade: Unicesumar<br><br>
+        <p>&nbsp&nbsp By Edenilson Fernandes dos Santos</p> 
+        <p>&nbsp&nbsp RA: 20013148-5 </p> 
+        <p>&nbsp&nbsp Curso: Superior de Tecnologia em Sistemas para Internet </p>
+        <p>&nbsp&nbsp Faculdade: Unicesumar </p>
     </div>
 
 

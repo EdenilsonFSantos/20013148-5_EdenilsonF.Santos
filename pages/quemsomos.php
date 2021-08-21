@@ -8,7 +8,7 @@
 <body>
 
 
-
+<!-- MENUS - CABECALHO   -->
 <?php
 	require 'cabecalho.php';
 	echo 'Quem Somos';
@@ -17,6 +17,8 @@
 
 
 
+
+<!-- RODAPÉ   -->
 <footer>
 <?php
 	require 'rodape.php';

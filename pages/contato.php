@@ -7,12 +7,15 @@
 </head>
 <body>
 
+<!-- MENUS - CABECALHO   -->
 <?php
 	require 'cabecalho.php';
 	echo 'Contato';
 ?>
 
 
+
+<!-- RODAPÉ   -->
 <footer>
 <?php
 	require 'rodape.php';

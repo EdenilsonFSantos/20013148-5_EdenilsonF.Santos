@@ -7,6 +7,7 @@
 </head>
 <body>
 
+<!-- MENUS - CABECALHO   -->
 <?php
 	require 'pages/cabecalho.php';
 
@@ -19,7 +20,7 @@
 
 
 
-
+<!-- RODAPÉ   -->
 <footer>
 <?php
 	require 'pages/rodape.php';
