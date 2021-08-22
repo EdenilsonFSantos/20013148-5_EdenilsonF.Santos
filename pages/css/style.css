@@ -3,7 +3,8 @@
 /* ---------  CABEÇALHO - MENU DE OPCOES HORIZONTAL  ---------- */
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+  border-radius: 10px;
+    background-color: #e6682e;
     overflow: hidden;
   }
   
@@ -20,13 +21,13 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: rgba(224, 150, 150, 1);
     color: black;
   }
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #e6682e;
     color: white;
   }
   
@@ -44,20 +45,38 @@
     height: 60%;
 }
 
-.textomapa {
-    color: black;
-    font-size: 15px;
+.maps2 {
+  background-color: #e6682e;
+    border: 1px solid rgba(72, 181, 233, 0.6);
+    border-radius: 10px;
+    box-shadow: 0 1px 6px rgba(178, 178, 178, 0.6);
+    color: rgb(255, 255, 255) !important;
+    font-family: gothambook;
+    text-align: center;
+    top: 50px !important;
+    width:99.5%;
+    height: 70%;
+    /*width: 150px !important;*/
 }
+
+.marcar1 {
+    color: #f1420c;
+}
+
 
   /* --------------  RODAPE ------------  */
 
 .rodape {
-    position:absolute;
-    background-color: #333;
+    /*position:absolute;*/
+    border-radius: 10px;
+    background-color: #e6682e;
     font-size: 12px;
     color: white;
     bottom:0;
-    width:100%;
+    width:99.5%;
+    float: left;
+    display: block;
+    text-align: center;
 }
 
 
