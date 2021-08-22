@@ -40,8 +40,13 @@
     color: black;
     font-size: 15px;
     bottom:0;
-    width:100%;
+    width:99.5%;
     height: 60%;
+}
+
+.textomapa {
+    color: black;
+    font-size: 15px;
 }
 
   /* --------------  RODAPE ------------  */
