@@ -1,34 +1,88 @@
 <html>
 <head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
-    <link rel="stylesheet" type="text/css" href="pages/js/Glider/glider.css">   
     <link rel="stylesheet" type="text/css" href="pages/css/style.css">
-    <script type="text/javascript" src="pages/js/Glider/glider.min.js"></script>
     <script type="text/javascript" src="pages/js/script.js"></script>
     <title>Home</title>
 </head>
-<body>
-<script src="glider.js"></script>
+<body onload="currentSlide(1)">
 
 <!-- MENUS - CABECALHO   -->
 <?php
 	require 'pages/cabecalho.php';
 ?>
+<br>
 
-<article class="c-carousel">
-  <div class="c-carousel__slides">
-    <article class="c-carousel__slide">1</article>
-    <article class="c-carousel__slide">2</article>
-    <article class="c-carousel__slide">3</article>
-    <article class="c-carousel__slide">4</article>
-    <article class="c-carousel__slide">5</article>
-    <article class="c-carousel__slide">6</article>
+
+<!-- SLIDESHOW -->
+
+<!-- Container for the image gallery -->
+<div class="container">
+
+  <!-- Full-width images with number text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+      <img class="center" src="pages/images/doce-de-leite-cremoso2.jpg">
   </div>
 
-  <button aria-label="Anterior">«</button>
-  <button aria-label="Próximo">»</button>
-  <div role="tablist"></div>
-</article>
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+      <img class="center" src="pages/images/Beijinho_com_Morango2.jpg">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+      <img class="center" src="pages/images/Doce-Abobora-cremoso.jpg">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+      <img class="center" src="pages/images/doce-sagu.jpg">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+      <img class="center" src="pages/images/goiabada_cremosa1.jpg">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+      <img class="center" src="pages/images/cocada_cremosa.jpg">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <br><br>
+  <a class="prev" onclick="plusSlides(-1)" style="margin-left:auto; margin-right: 20px">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)" style="margin-left:auto; margin-right: 20px">&#10095;</a>
+
+  <!-- Image text -->
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <!-- Thumbnail images -->
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="pages/images/doce-de-leite-cremoso2.jpg" style="width:100%; height:150px" onclick="currentSlide(1)" alt="DOCE DE LEITE CREMOSO">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pages/images/Beijinho_com_Morango2.jpg"  style="width:100%; height:150px" onclick="currentSlide(2)" alt="SURPRESA DE MORANGO">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pages/images/Doce-Abobora-cremoso.jpg"  style="width:100%; height:150px" onclick="currentSlide(3)" alt="DOCE DE ABÓBORA CREMOSO">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pages/images/doce-sagu.jpg" style="width:100%; height:150px" onclick="currentSlide(4)" alt="SAGU DE VINHO">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pages/images/goiabada_cremosa1.jpg" style="width:100%; height:150px" onclick="currentSlide(5)" alt="GOIABADA CREMOSA">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="pages/images/cocada_cremosa.jpg" style="width:100%; height:150px" onclick="currentSlide(6)" alt="COCADA CREMOSA">
+    </div>
+  </div>
+</div>
+
 
 <!-- RODAPÉ   -->
 <footer>
