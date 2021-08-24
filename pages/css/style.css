@@ -1,4 +1,30 @@
+/* -- ZOON NAS ESPECIFICAÇÕES DO PRODUTO --*/
+/* Container holding the image and the text */
+.container_zoom {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 330px;
+}
 
+/* Bottom right text */
+.text_block_zoom {
+  position:relative;
+  display: block;
+  top: -70px;
+  bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 84px;
+  /*right: 20px;*/
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
 
 /* - CARROSEL - */
@@ -106,7 +132,6 @@
 .demo:hover {
   opacity: 1;
 }
-
 
 
 

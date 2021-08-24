@@ -22,32 +22,32 @@
   <!-- Full-width images with number text -->
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-      <img class="center" src="pages/images/doce-de-leite-cremoso2.jpg">
+      <a href="pages/docedeleite.php"><img class="center" src="pages/images/doce-de-leite-cremoso2.jpg"></a>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-      <img class="center" src="pages/images/Beijinho_com_Morango2.jpg">
+    <a href="pages/surpresamorango.php"><img class="center" src="pages/images/Beijinho_com_Morango2.jpg"></a>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-      <img class="center" src="pages/images/Doce-Abobora-cremoso.jpg">
+    <a href="pages/doceabobora.php"><img class="center" src="pages/images/Doce-Abobora-cremoso.jpg"></a>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-      <img class="center" src="pages/images/doce-sagu.jpg">
+    <a href="pages/sagudevinho.php"><img class="center" src="pages/images/doce-sagu.jpg"></a>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-      <img class="center" src="pages/images/goiabada_cremosa1.jpg">
+    <a href="pages/goiabada.php"><img class="center" src="pages/images/goiabada_cremosa1.jpg"></a>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-      <img class="center" src="pages/images/cocada_cremosa.jpg">
+    <a href="pages/cocada.php"><img class="center" src="pages/images/cocada_cremosa.jpg"></a>
   </div>
 
   <!-- Next and previous buttons -->
