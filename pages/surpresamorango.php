@@ -19,7 +19,10 @@
 
 <div class="text_block_zoom">
     <h4>Surpresa de Morango</h4>
-    <p>What a beautiful sunrise</p>
+    <p>Este doce é uma deliciosa combinação de brigadeiro branco de leite moça, 
+      recheado com um generoso morango in natura. 
+      Uma mistura de sensações que vai agradar até os mais exigentes paladares. 
+      <a href="http://localhost/20013148-5_EdenilsonF.Santos/index.php">&nbsp&nbsp Voltar &nbsp&nbsp</a>
 </div>
 
 

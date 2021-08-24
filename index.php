@@ -2,6 +2,8 @@
 <head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
     <link rel="stylesheet" type="text/css" href="pages/css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+    <style>h1{Font-family: 'Sofia';font-size: 22px; text-align: center;}</style>
     <script type="text/javascript" src="pages/js/script.js"></script>
     <title>Home</title>
 </head>
@@ -11,8 +13,7 @@
 <?php
 	require 'pages/cabecalho.php';
 ?>
-<br>
-
+<h1> Doces Caseiros Ltda </h1>
 
 <!-- SLIDESHOW -->
 

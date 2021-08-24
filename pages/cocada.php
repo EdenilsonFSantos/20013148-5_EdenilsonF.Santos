@@ -12,6 +12,7 @@
 	require 'cabecalho.php';
 ?>
 
+
 <!-- DETALHES DO PRODUTO -->
 <div class="container_zoom">
   <img src="images/cocada_cremosa.jpg" alt="doce-de-leite-cremoso">

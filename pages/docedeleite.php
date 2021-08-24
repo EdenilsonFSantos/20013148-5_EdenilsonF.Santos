@@ -19,7 +19,12 @@
 
 <div class="text_block_zoom">
     <h4>Doce de Leite Cremoso</h4>
-    <p>What a beautiful sunrise</p>
+    <p>O doce de leite cremoso é uma ótima opção para sua sobremesa, 
+      adoçando a vida de maneira saudável e prazerosa. 
+      Combina com queijos, frutas, torradas, recheio de tapioca, 
+      coberturas de bolos e cupcakes... E fica delicioso de colher!
+      <a href="http://localhost/20013148-5_EdenilsonF.Santos/index.php">&nbsp&nbsp Voltar &nbsp&nbsp</a>
+    </p>
 </div>
 
 
