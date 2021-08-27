@@ -5,7 +5,7 @@
     <script type="text/javascript" src="js/script.js"></script>
     <title>Sagu de Vinho</title>
 </head>
-<body>
+<body class='fundoindex'>
 
 <!-- MENUS - CABECALHO   -->
 <?php
@@ -14,12 +14,16 @@
 
 <!-- DETALHES DO PRODUTO -->
 <div class="container_zoom">
-  <img src="images/doce-sagu.jpg" alt="doce-de-leite-cremoso">
+  <img src="images/004_sagu.jpg" alt="Sagu de Vinho">
 </div>
 
-<div class="text_block_zoom">
+<div class="descr">
     <h4>Sagu de Vinho</h4>
-    <p>What a beautiful sunrise</p>
+    <p>O sagu é uma sobremesa originária da Serra Gaúcha, no estado do Rio Grande do Sul, Brasil. 
+      Ela é feita com bolinhas de fécula de mandioca cozidas, combinada com vinho tinto.
+      Essa sobremesa é menos doce e, por isso, costuma ser mais apreciada por adultos do que por crianças,
+      Seu aroma também é inconfundível e costuma remeter imediatamente ao ingrediente utilizado, neste caso o vinho.
+    </p>
 </div>
 
 

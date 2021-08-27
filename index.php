@@ -2,19 +2,16 @@
 <head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
     <link rel="stylesheet" type="text/css" href="pages/css/style.css">
-    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
-    <style>h1{Font-family: 'Sofia';font-size: 22px; text-align: center;}</style>
     <script type="text/javascript" src="pages/js/script.js"></script>
     <title>Home</title>
 </head>
-<body onload="currentSlide(1)">
+<body class='fundoindex' onload="currentSlide(1)">
 
 <!-- MENUS - CABECALHO   -->
 <?php
 	require 'pages/cabecalho.php';
 ?>
-<h1> Doces Caseiros Ltda </h1>
-
+<br>
 <!-- SLIDESHOW -->
 
 <!-- Container for the image gallery -->
@@ -52,10 +49,11 @@
   </div>
 
   <!-- Next and previous buttons -->
-  <br><br>
+  
   <a class="prev" onclick="plusSlides(-1)" style="margin-left:auto; margin-right: 20px">&#10094;</a>
   <a class="next" onclick="plusSlides(1)" style="margin-left:auto; margin-right: 20px">&#10095;</a>
 
+  <br>
   <!-- Image text -->
   <div class="caption-container">
     <p id="caption"></p>
@@ -83,7 +81,6 @@
     </div>
   </div>
 </div>
-
 
 <!-- RODAPÉ   -->
 <footer>

@@ -5,7 +5,7 @@
     <script type="text/javascript" src="js/script.js"></script>
     <title>Doce de Abóbora</title>
 </head>
-<body>
+<body class='fundoindex'>
 
 <!-- MENUS - CABECALHO   -->
 <?php
@@ -14,12 +14,13 @@
 
 <!-- DETALHES DO PRODUTO -->
 <div class="container_zoom">
-  <img src="images/Doce-Abobora-cremoso.jpg" alt="doce-de-leite-cremoso">
+  <img src="images/003_abobora.jpg" alt="doce-de-abóbora-cremoso">
 </div>
 
-<div class="text_block_zoom">
+<div class="descr">
     <h4>Doce de Abóbora</h4>
-    <p>What a beautiful sunrise</p>
+    <p>A cremosidade da abóbora e um toque suave quase impeceptível do cravo, fazem este doce ser um sucesso.
+      Este doce é da Linha Colonial, é o puro sabor da tradição.</p>
 </div>
 
 </body>

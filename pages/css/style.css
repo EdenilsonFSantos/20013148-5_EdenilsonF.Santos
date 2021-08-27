@@ -41,6 +41,8 @@
 /* Hide the images by default */
 .mySlides {
   display: none;
+  border-image: 10px;
+  border-color: blueviolet;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -140,7 +142,7 @@
 /* ---------  CABEÇALHO - MENU DE OPCOES HORIZONTAL  ---------- */
 /* Add a black background color to the top navigation */
 .topnav {
-  border-radius: 10px;
+  border-radius: 0px;
     background-color: #e6682e;
     /*background-color:  #b469eb;*/
     overflow: hidden;
@@ -207,9 +209,11 @@
 .rodape {
     /*position:absolute;*/
     /*border-radius: 10px;*/
-    background-color: #e6682e;
+    background-color:  #b469eb;
     font-size: 12px;
     color: white;
+    border-color: black;
+    border: 5px;
     bottom:0;
     width:100%;
     float: left;
@@ -217,3 +221,22 @@
     text-align: center;
 }
 
+/* ---------- QUEM SOMOS ---------- */
+
+.quem {
+  text-align: center;
+  /*background: #1abc9c;*/
+  color: white;
+  font-size: 30px;
+}
+
+.fundoindex {
+  background:lightpink;
+}
+
+.descr{
+  padding: 60px;
+  background-color:  #b469eb;
+  color: white;
+  font-size: 20px;
+}

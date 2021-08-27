@@ -5,7 +5,7 @@
     <script type="text/javascript" src="js/script.js"></script>
     <title>Goiabada Cremosa</title>
 </head>
-<body>
+<body class='fundoindex'>
 
 <!-- MENUS - CABECALHO   -->
 <?php
@@ -14,12 +14,13 @@
 
 <!-- DETALHES DO PRODUTO -->
 <div class="container_zoom">
-  <img src="images/goiabada_cremosa1.jpg" alt="doce-de-leite-cremoso">
+  <img src="images/005_goiaba.jpg" alt="Goiabada Cremosa">
 </div>
 
-<div class="text_block_zoom">
+<div class="descr">
     <h4>Goiabada Cremosa</h4>
-    <p>What a beautiful sunrise</p>
+    <p>A goiabada cremosa é uma ótima opção para sua sobremesa, principalmente quando combinado com queijos ou frutas, adoçando a vida de maneira saudável. 
+      A goiabada é um doce feito de goiaba típico da comida caipira, mas também é consumido em vários lugares do mundo</p>
 </div>
 
 

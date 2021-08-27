@@ -7,7 +7,7 @@
     <script type="text/javascript" src="js/script.js"></script>
     <title>Localização</title>
 </head>
-<body>
+<body class='fundoindex'>
 
 <!-- MENUS - CABECALHO   -->
 <?php
